@@ -1,0 +1,46 @@
+/* Typography */
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: #595431;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: #313125;
+}
+
+/* Color */
+body {
+    background-color: #b7b9af;
+}
+
+/* Box Model */
+
+body {
+    margin: 0;
+    padding: 24px;
+}
+
+h1 {
+    margin-bottom: 12px;
+    border-bottom: 3px solid #6b6a62;
+    padding-bottom: 8px;
+}
+
+p {
+    margin: 16px 0;
+    padding: 12px;
+    border: 2px solid #313125;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    background-color: #dfdfdc;
+    border: 2px solid #595431;
+    padding: 20px;
+    margin: 20px;
+}
